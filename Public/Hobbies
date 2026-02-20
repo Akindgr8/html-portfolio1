@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Hobbies</title>
+    </head>
+
+    <body>
+        <h1>My Hobbies</h1>
+        <ol type="i">
+            <li>Playing Board and Video Games</li>
+            <li>Health & Fitness</li>
+            <li>Learning New Tech Tools</li>
+        </ol>
+        <hr />
+    </body>
+</html>
